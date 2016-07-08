@@ -34,10 +34,12 @@ npm run server
 
 ### Seeding the Database
 
-![alt tag](http://i393.photobucket.com/albums/pp19/Althecoding1/Screen%20Shot%202016-07-07%20at%209.51.13%20PM_zpsajynjqdg.png)
+![alt tag](http://i393.photobucket.com/albums/pp19/Althecoding1/Screen%20Shot%202016-07-08%20at%201.36.57%20PM_zpsoym5uyqi.png)
 ```
 
-1. go to postman
+1.  Locate seed.js file in db sub folder
+3.  
+2.  Run node seed.js
 
 
 ```
