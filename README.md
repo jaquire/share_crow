@@ -38,7 +38,6 @@ npm run server
 ```
 
 1.  Locate seed.js file in db sub folder
-3.  
 2.  Run node seed.js
 
 
