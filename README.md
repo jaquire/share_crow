@@ -8,7 +8,7 @@
 
 ### Demo
 
-sharecrow.org
+[ShareCrow Site Demo](sharecrow.org)
 
 ### Requirements
 
