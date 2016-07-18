@@ -8,7 +8,6 @@ import { getCategory } from '../../actions/categoryActions';
 import { signup, login, signout } from '../../helpers/authHelpers';
 import Landing from './Landing';
 import NavBar from '../Navigation/NavBar';
-// import Footer from '../Shared/Footer';
 import LoadingBar from '../Shared/LoadingBar';
 import MeetTheTeam from '../MeetTheTeam';
 

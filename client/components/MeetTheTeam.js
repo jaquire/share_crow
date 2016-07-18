@@ -2,10 +2,9 @@
 import React, { PropTypes } from 'react';
 
 const MeetTheTeam = () => (
-  <div id="meet-the-team">
+  <div id="meet-the-team" className="row">
     <figure
-      className="snip1344"
-      style={{ 'margin-left': '100px' }}
+      className="snip1344 col-xs-6 col-sm-3"
     >
       <img
         src=""
@@ -29,7 +28,7 @@ const MeetTheTeam = () => (
       </figcaption>
     </figure>
     <figure
-      className="snip1344"
+      className="snip1344 col-xs-6 col-sm-3"
     >
       <img
         src=""
@@ -53,7 +52,7 @@ const MeetTheTeam = () => (
       </figcaption>
     </figure>
     <figure
-      className="snip1344"
+      className="snip1344 col-xs-6 col-sm-3"
     >
       <img
         src=""
@@ -76,8 +75,9 @@ const MeetTheTeam = () => (
         </div>
       </figcaption>
     </figure>
+    <div className="clearfix visible-xs-block"></div>
     <figure
-      className="snip1344"
+      className="snip1344 col-xs-6 col-sm-3"
     >
       <img
         src=""

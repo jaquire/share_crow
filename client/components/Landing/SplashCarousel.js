@@ -10,6 +10,7 @@ class SplashCarousel extends Component {
       infinite: true,
       fade: true,
       speed: 3000,
+      arrows: false,
     };
   }
 
